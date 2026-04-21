@@ -1,2 +1,2 @@
-# nexus-exe-store
+# Nyxion-exe-store
 store
